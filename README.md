@@ -29,4 +29,3 @@ Post: Gocha-6220  Mohanpur, Rajshahi Rajshahi , Bangladesh
 If you have questions or comments about your privacy rights, you may email us at galib.cse19.duet@gmail.com
 13.	HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? 
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
-
